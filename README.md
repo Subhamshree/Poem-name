@@ -1,8 +1,4 @@
-#include <stdio.h>
+rainbow and unicorn
 
-int main(void)
-{
-  printf("You are here to write poem");
-  printf("hello");
-  return 0;
-}
+rainbow colors
+red
